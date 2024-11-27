@@ -19,6 +19,6 @@
 #ifndef	_STDINT_H_
 #define _STDINT_H_
 
-#include <sys/stdint.h>
+#include "sys/stdint.h"
 
 #endif /* _STDINT_H_ */

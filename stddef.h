@@ -35,8 +35,8 @@
 #ifndef _STDDEF_H_
 #define _STDDEF_H_
 
-#include <sys/cdefs.h>
-#include <sys/_types.h>
+#include "cdefs.h"
+#include "sys/_types.h"
 
 #ifndef _PTRDIFF_T_DEFINED_
 #define _PTRDIFF_T_DEFINED_

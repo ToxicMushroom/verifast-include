@@ -19,8 +19,9 @@
 #ifndef _SYS_STDINT_H_
 #define _SYS_STDINT_H_
 
-#include <sys/cdefs.h>
-#include <sys/_types.h>
+#include "cdefs.h"
+#include "_types.h"
+
 
 /* 7.18.1.1 Exact-width integer types (also in sys/types.h) */
 #ifndef _INT8_T_DEFINED_

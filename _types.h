@@ -34,7 +34,7 @@
 #ifndef _SYS__TYPES_H_
 #define _SYS__TYPES_H_
 
-#include "cdefs.h"
+#include <sys/cdefs.h>
 /* 7.18.1.1 Exact-width integer types */
 typedef signed char         __int8_t;
 typedef unsigned char       __uint8_t;
